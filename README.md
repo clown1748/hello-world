@@ -1,2 +1,2 @@
 # hello-world
-Tutorial Project for GitHub
+this is my first git hub repo and readme file
